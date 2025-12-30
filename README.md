@@ -18,8 +18,6 @@ I am passionate about building **real-world intelligent systems** that combine *
 - Solve **Data Structures & Algorithm problems**
 
 ---
-
-
 ---
 
 ## 🌐 Socials  
@@ -30,7 +28,7 @@ I am passionate about building **real-world intelligent systems** that combine *
 
 ---
 
-## 💻 Tech Stack  
+##  Tech Stack  
 
 **Languages & Programming**  
 C, C++, Python, JavaScript  
@@ -46,6 +44,13 @@ ESP32, Arduino, GPS, Sound Sensors, Motion Sensors, Real-time Data Streaming
 
 **Tools**  
 Git, GitHub, VS Code  
+
+---
+
+##  GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=prav10140&theme=dark&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=prav10140&theme=dark)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prav10140&theme=dark&layout=compact)
 
 ---
 
