@@ -18,7 +18,6 @@ I am passionate about building **real-world intelligent systems** that combine *
 - Solve **Data Structures & Algorithm problems**
 
 ---
----
 
 ## 🌐 Socials  
 🌐 **Portfolio:** https://prav10140.github.io  
