@@ -1,16 +1,15 @@
 # 💫 About Me  
 
-🎓 **Electronics and Communication Engineering student with hands-on experience in C++, Python, and embedded systems,  
+ **Electronics and Communication Engineering student with hands-on experience in C++, Python, and embedded systems,  
 building real-time IoT and machine learning projects. Developed smart helmet, eye-state detection, and sound monitoring  
 systems, integrating firmware, backend APIs, and dashboards for practical applications.**
 
-🤖 **AI • IoT • Embedded Systems • Full-Stack Developer**
 
 I am passionate about building **real-world intelligent systems** that combine **hardware, data, and cloud technologies** to create reliable safety and automation solutions.
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 - Build **IoT-based real-time systems**
 - Develop **Machine Learning models**
 - Create **backend APIs & cloud pipelines**
@@ -20,18 +19,6 @@ I am passionate about building **real-world intelligent systems** that combine *
 
 ---
 
-## 🧠 Flagship Project  
-### 🪖 Smart Helmet for Accident Detection & Rider Safety  
-
-An **AI-powered IoT wearable** that improves rider safety.
-
-**Features**
-- 🚨 Automatic accident detection  
-- 📍 Live GPS tracking  
-- 📲 WhatsApp & Email alerts  
-- 👁️ Eye-state based drowsiness detection  
-- 🔊 Sound & impact monitoring  
-- 📊 Real-time dashboard  
 
 ---
 
