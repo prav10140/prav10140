@@ -19,14 +19,6 @@ I am passionate about building **real-world intelligent systems** that combine *
 
 ---
 
-## 🌐 Socials  
-🌐 **Portfolio:** https://prav10140.github.io  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/praveenpatel051983)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar-patel-4939b8325)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prav9406@gmail.com)  
-
----
-
 ##  Tech Stack  
 
 **Languages & Programming**  
@@ -42,7 +34,17 @@ Machine Learning, Computer Vision, Keras, NumPy, Scikit-learn, Matplotlib
 ESP32, Arduino, GPS, Sound Sensors, Motion Sensors, Real-time Data Streaming  
 
 **Tools**  
-Git, GitHub, VS Code  
+Git, GitHub, VS Code 
+
+---
+
+## 🌐 Socials  
+🌐 **Portfolio:** https://prav10140.github.io  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/praveenpatel051983)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar-patel-4939b8325)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prav9406@gmail.com)  
+
+ 
 
 ---
 
