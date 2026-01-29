@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9D4EDD&vCenter=true&width=800&lines=Hi,+I'm+Praveen+Patel;ECE+Student;AI+%26+ML+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9D4EDD&vCenter=true&width=800&lines=Hi,+I'm+Praveen+Patel;ECE+Student" />
 
   </p>
   <p>
@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Electronics and Communication Engineering student with hands-on experience in C++, Python, and embedded systems,  
 building real-time IoT and machine learning projects. Developed smart helmet, eye-state detection, and sound monitoring  
@@ -24,7 +24,7 @@ systems, integrating firmware, backend APIs, and dashboards for practical applic
 
 ---
 
-## 🤝 Connect with me
+## Connect with me
 <p>
   <strong>🌐 Portfolio :</strong>
   <a href="https://prav10140.github.io" target="_blank">
@@ -52,6 +52,7 @@ systems, integrating firmware, backend APIs, and dashboards for practical applic
     <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
   </a>
 </p>
+
 ---
 ##  Tech Stack  
 
@@ -69,7 +70,7 @@ ESP32, Arduino, GPS, Sound Sensors, Motion Sensors, Real-time Data Streaming
 
 **Tools**  
 Git, GitHub, VS Code 
-### 🗄️ Database & Backend
+### Database & Backend
 - **MySQL**
 - **Firebase**
 - **Flask**
@@ -77,21 +78,21 @@ Git, GitHub, VS Code
 - **Machine Learning**  
 - Deployment: **Vercel**
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" height="32"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prav10140&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prav10140&theme=tokyonight" />
 </p>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prav10140&theme=tokyo-night&hide_border=true" />
 
