@@ -1,24 +1,57 @@
-# 💫 About Me  
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9D4EDD&vCenter=true&width=800&lines=Hi,+I'm+Mohit+Pal;Aspiring+Software+Engineer;AI+%26+ML+Enthusiast" />
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=prav10140&label=Profile%20views&color=1F6FEB&style=flat" />
+    <img src="https://img.shields.io/github/followers/prav10140?label=Followers&style=flat&color=success" />
+    <img src="https://img.shields.io/github/stars/prav10140?label=Stars&style=flat&color=yellow" />
+  </p>
 
- **Electronics and Communication Engineering student with hands-on experience in C++, Python, and embedded systems,  
+<h3 align="center">A passionate developer from India</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prav10140/prav10140/main/banner.png" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Electronics and Communication Engineering student with hands-on experience in C++, Python, and embedded systems,  
 building real-time IoT and machine learning projects. Developed smart helmet, eye-state detection, and sound monitoring  
-systems, integrating firmware, backend APIs, and dashboards for practical applications.**
-
-
-I am passionate about building **real-world intelligent systems** that combine **hardware, data, and cloud technologies** to create reliable safety and automation solutions.
+systems, integrating firmware, backend APIs, and dashboards for practical applications.
 
 ---
 
-##  What I Do
-- Build **IoT-based real-time systems**
-- Develop **Machine Learning models**
-- Create **backend APIs & cloud pipelines**
-- Design **React dashboards**
-- Work with **ESP32, Arduino, GPS & sensors**
-- Solve **Data Structures & Algorithm problems**
+## 🤝 Connect with me
+<p>
+  <strong>🌐 Portfolio :</strong>
+  <a href="https://prav10140.github.io" target="_blank">
+     https://prav10140.github.io
+  </a>
+</p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/praveen-kumar-patel-4939b8325" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/praveenpatel051983" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.geeksforgeeks.org/profile/prav92qie" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:prav9406@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+  </a>
+</p>
 ---
-
 ##  Tech Stack  
 
 **Languages & Programming**  
@@ -35,24 +68,36 @@ ESP32, Arduino, GPS, Sound Sensors, Motion Sensors, Real-time Data Streaming
 
 **Tools**  
 Git, GitHub, VS Code 
+### 🗄️ Database & Backend
+- **MySQL**
+- **Firebase**
+- **Flask**
+- **REST / Fast APIs**  
+- **Machine Learning**  
+- Deployment: **Vercel**
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="32"/>
+</p>
 
 ---
 
-## 🌐 Socials  
-🌐 **Portfolio:** https://prav10140.github.io  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/praveenpatel051983)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar-patel-4939b8325)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prav9406@gmail.com)  
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prav10140&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prav10140&theme=tokyonight" />
+</p>
 
- 
+## 📈 Contribution Graph
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prav10140&theme=tokyo-night&hide_border=true" />
 
-##  GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=prav10140&theme=dark&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=prav10140&theme=dark)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prav10140&theme=dark&layout=compact)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prav10140&theme=tokyonight" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prav10140&theme=tokyonight&utcOffset=5.5" />
+</p>
 
----
 
-> *“Great technology should be useful, not just powerful.”*
+
