@@ -8,11 +8,8 @@
     <img src="https://img.shields.io/github/stars/prav10140?label=Stars&style=flat&color=yellow" />
   </p>
 
-<h3 align="center">A passionate developer from India</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prav10140/prav10140/main/banner.png" />
-</p>
+
 
 ---
 
