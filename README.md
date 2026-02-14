@@ -50,7 +50,7 @@ systems, integrating firmware, backend APIs, and dashboards for practical applic
   </a>
 </p>
 
----
+
 ##  Tech Stack  
 
 **Languages & Programming**  
