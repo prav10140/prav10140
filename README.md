@@ -11,7 +11,7 @@
 
 
 
----
+
 
 ## About Me
 
@@ -19,7 +19,7 @@ Electronics and Communication Engineering student with hands-on experience in C+
 building real-time IoT and machine learning projects. Developed smart helmet, eye-state detection, and sound monitoring  
 systems, integrating firmware, backend APIs, and dashboards for practical applications.
 
----
+
 
 ## Connect with me
 <p>
