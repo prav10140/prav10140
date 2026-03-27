@@ -53,17 +53,18 @@ systems, integrating firmware, backend APIs, and dashboards for practical applic
 
 ##  Tech Stack  
 
+**IoT & Embedded System**  
+ESP32, Arduino, STM32 , RTOS, Real-time Data Streaming 
+
+**AI & Data Science**  
+Machine Learning, Computer Vision, Keras, NumPy, Scikit-learn, Matplotlib  
+
 **Languages & Programming**  
 C, C++, Python, JavaScript  
 
 **Web & Backend**  
 HTML, CSS, React, Vite, Node.js, Express, FastAPI, Flask, Firebase, REST APIs, Google Cloud, Vercel  
-
-**AI & Data Science**  
-Machine Learning, Computer Vision, Keras, NumPy, Scikit-learn, Matplotlib  
-
-**IoT & Embedded**  
-ESP32, Arduino, GPS, Sound Sensors, Motion Sensors, Real-time Data Streaming  
+ 
 
 **Tools**  
 Git, GitHub, VS Code 
