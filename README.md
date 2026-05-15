@@ -54,7 +54,7 @@ systems, integrating firmware, backend APIs, and dashboards for practical applic
 ##  Tech Stack  
 
 **IoT & Embedded System**  
-ESP32, Arduino, STM32 , RTOS, Real-time Data Streaming 
+Embedded System ,IoT ,ESP32, Arduino, STM32 , RTOS, Embedded C
 
 **AI & Data Science**  
 Machine Learning, Computer Vision, Keras, NumPy, Scikit-learn, Matplotlib  
