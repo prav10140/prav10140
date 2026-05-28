@@ -83,12 +83,6 @@ Git, GitHub, VS Code
 
 ---
 
-## GitHub Stats
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prav10140&theme=tokyonight" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prav10140&theme=tokyonight" />
-</p>
 
 ## Contribution Graph
 
