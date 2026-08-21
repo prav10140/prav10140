@@ -81,17 +81,3 @@ Git, GitHub, VS Code
   <img src="https://skillicons.dev/icons?i=git,github,vscode" height="32"/>
 </p>
 
----
-
-
-## Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prav10140&theme=tokyo-night&hide_border=true" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prav10140&theme=tokyonight" />
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prav10140&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-
-
